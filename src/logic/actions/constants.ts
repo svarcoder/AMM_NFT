@@ -1,0 +1,12 @@
+export const GET_BALANCE = "GET_BALANCE";
+export const LOGIN = "LOGIN";
+export const WALLET_CONNECT_CHECK = "WALLET_CONNECT_CHECK";
+export const SET_CHAINID = "SET_CHAINID";
+export const WALLET_BALANCE = "WALLET_BALANCE";
+export const SET_NETWORKID = "SET_NETWORKID";
+export const SET_BUSDContract = "SET_BUSDContract";
+export const SET_BUSTContract = "SET_BUSTContract";
+export const SET_BustPairContract = "SET_BustPairContract";
+export const SET_BustRouter02Contract = "SET_BustRouter02Contract";
+export const SET_ADDRESS = "SET_ADDRESS";
+export const SET_NFTContract = "SET_NFTContract";

@@ -1,0 +1,13 @@
+export const walletTestConnetId =
+	"https://data-seed-prebsc-1-s1.binance.org:8545/";
+export const walletMainConnetId = "https://bsc-dataseed.binance.org/";
+export const networkTestChainId = "97";
+export const DAILY_REWARD = 555555.5555;
+export const networkMainChainId = "56";
+export const gasPrice = "15";
+export const gas = 500000;
+export const pinataApiKey = "851f2e42ef690cfe5d4d";
+export const pinataSecretApiKey =
+	"de3bb9b2a8872c2f28cac2dead71ce4fd5475a329bd66acde1c6767cecd870fb";
+export const token =
+	"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiIyMGVmNzczMy0xZDI5LTRjOGQtODg2ZS0yYTczYTI0YTQwMDIiLCJlbWFpbCI6ImNoYXJ2YWkxOTk3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2V9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiI4NTFmMmU0MmVmNjkwY2ZlNWQ0ZCIsInNjb3BlZEtleVNlY3JldCI6ImRlM2JiOWIyYTg4NzJjMmYyOGNhYzJkZWFkNzFjZTRmZDU0NzVhMzI5YmQ2NmFjZGUxYzY3NjdjZWNkODcwZmIiLCJpYXQiOjE2NDQ5MTEzNjJ9.EAOR_Mwo3qmYfC_IzHIdMGd4SheIP7u5WP-v6d7iPgE";
